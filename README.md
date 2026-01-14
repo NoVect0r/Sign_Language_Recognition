@@ -8,7 +8,7 @@
 
 ## 📺 Project Demonstration
 
-<video src="./DeepSign%20final%20Test.mp4" controls width="100%"></video>
+
 
 *영상이 보이지 않을 경우 [여기](./DeepSign%20final%20Test.mp4)를 클릭하여 확인하세요.*
 
