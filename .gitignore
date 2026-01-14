@@ -1,0 +1,16 @@
+# 1. 폴더 전체 제외
+.idea/
+dataset_raw/
+non_conversion/
+with_no_space/
+"미리 받은 파일들/"
+
+# 2. 특정 확장자 파일 전체 제외
+*.csv
+*.pkl
+*.h5
+*.ttf
+
+# 3. 추가적인 파이썬 캐시 제외
+__pycache__/
+.DS_Store
