@@ -8,9 +8,9 @@
 
 ## 📺 Project Demonstration
 
+![Image](https://github.com/user-attachments/assets/74522bb5-a02d-49bf-9ab4-72a445973e44)
 
-
-*영상이 보이지 않을 경우 [여기](./DeepSign%20final%20Test.mp4)를 클릭하여 확인하세요.*
+*전체 영상은 [여기](./DeepSign%20final%20Test.mp4)를 클릭하여 확인하세요.*
 
 ---
 
